@@ -1,7 +1,9 @@
 # HNJMR
 Sistema Informático Hospital de Niños JMR
 
-![Aplicación de escritorio](https://imgur.com/a/BaR6b65)
+<p align="center">
+  <img src="[./Assets/Resources/Texture/Logo/Logo transparencia-01.png?raw=true](https://imgur.com/a/BaR6b65)" align width=80%>
+</p>
 
 # Prerrequisitos
 ## Node.js
