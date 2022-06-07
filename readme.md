@@ -2,7 +2,7 @@
 Sistema Informático Hospital de Niños JMR
 
 <p align="center">
-  <img src="https://i.imgur.com/PJcHBQx.jpeg" width=80%>
+  <img src="https://i.imgur.com/PJcHBQx.jpeg" width=100%>
 </p>
 
 # Prerrequisitos
