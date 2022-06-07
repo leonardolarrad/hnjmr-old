@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:focus {
+    outline-color: rgb(29 78 216 / 700)
+}

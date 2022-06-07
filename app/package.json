@@ -1,0 +1,29 @@
+{
+  "name": "hnjmr",
+  "version": "1.0.0",
+  "description": "Sistema Informático: Hospital de Niños JMR",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hnjmr"
+  ],
+  "authors": [
+    {
+      "name": "Leonardo Larrad",
+      "email": "leonardolarrad@gmail.com",
+      "url": "github.com/leonardolarrad"      
+    },
+    {
+      "name": "Christian Sanchez",
+      "email": "",
+      "url": ""      
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^19.0.3"
+  }
+}
