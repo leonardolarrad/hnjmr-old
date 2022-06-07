@@ -2,7 +2,7 @@
 Sistema Informático Hospital de Niños JMR
 
 <p align="center">
-  <img src="[./Assets/Resources/Texture/Logo/Logo transparencia-01.png?raw=true](https://imgur.com/a/BaR6b65)" align width=80%>
+  <img src="https://i.imgur.com/PJcHBQx.jpeg" width=70%>
 </p>
 
 # Prerrequisitos
