@@ -9,14 +9,15 @@ const createWindow = () => {
   const window = new BrowserWindow({
     width: 1280,
     height: 900,
-    show: false
+    show: false,
+    autoHideMenuBar: true
   })
 
   // and load the index.html of the app.
   window.maximize()
-  window.loadFile('src/pages/login.html')
+  window.loadFile('src/components/sidebar2.html')
   window.show()
-  nativeTheme.themeSource = 'light'
+  nativeTheme.themeSource = 'system'
 
 }
 
